@@ -1,7 +1,7 @@
 #  PROJET Arduino - FreeRTOS
 Réalisation d'un programme Arduino  basé sur FreeRTOS qui permet de créer les 5 tâches suivantes :
 
-1-Récuperation d'une valeu Analogique entre 0 et 1023 d'un potentiomètre  branché sur A0  ensuite envoyé la valeur à la 3ème tâche.
+1-Récuperation d'une valeur Analogique entre 0 et 1023 d'un potentiomètre  branché sur A0  ensuite envoyé la valeur à la 3ème tâche.
 
 2-Récuperation d'une valeur numérique entre 0 et 2  qui est la somme des deux valeurs  des deux entré numérique 3 et 4  branché à des boutons poussoir puis  envoyé la valeur à la 3ème tâche.
 
